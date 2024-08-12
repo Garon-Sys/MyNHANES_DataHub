@@ -1,2 +1,2 @@
-id,dataset_id,cycle_id,metadata_url,description,has_special_year_code,special_year_code,has_dataset
-1,1,1,http://example.com,,False,,False
+id,metadata_url,description,has_special_year_code,special_year_code,has_dataset,cycle,dataset
+1,http://example.com,,False,,False,2017-2018,DEMO

@@ -1,2 +1,2 @@
-id,variable_id,cycle_id,variable_name,sas_label,english_text,target,type,value_table
-1,1,1,RIDAGEYR,Age,Age at screening,Person,Numeric,"{'1': '18-29', '2': '30-39'}"
+id,variable_name,sas_label,english_text,target,type,value_table,cycle,variable
+1,RIDAGEYR,Age,Age at screening,Person,Numeric,"{'1': '18-29', '2': '30-39'}",2017-2018,RIDAGEYR
