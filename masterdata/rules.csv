@@ -1,2 +1,2 @@
-id,rule,version,folder_path,file_name,is_active,updated_at
-1,AgeNormalization,1.0,/path/to/rules,age_normalization.py,True,2024-08-16 13:22:29.991710+00:00
+id,rule,version,description,is_active,updated_at,file_path,file_script,repo_url
+1,rule_00001,0.0.0,Test,True,2024-08-21 17:19:49.182813+00:00,/Users/andrerico/Works/Projects/MyNHANES,rule_00001.py,https://github.com/Garon-Sys/MyNHANES/blob/main/mynhanes/nhanes/workprocess/masterdata_import.py
